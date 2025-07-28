@@ -27,7 +27,7 @@ A modern, responsive website for **Ghost IDE**, the fast and powerful code edito
 - **Hover effects** and micro-interactions
 
 ### 🚀 **Performance**
-- **Next.js 14** with App Router
+- **Next.js 15** with App Router
 - **Optimized images** with Next.js Image component
 - **Lazy loading** for better performance
 - **SEO optimized** structure
