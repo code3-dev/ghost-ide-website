@@ -99,10 +99,10 @@ export default function HomePage() {
   ]
 
   const screenshots = [
-    { src: "/images/screenshot1.jpg", alt: "Ghost IDE Code Editor", title: "Smart Code Editor" },
-    { src: "/images/screenshot2.jpg", alt: "File Explorer", title: "File Management" },
-    { src: "/images/screenshot3.jpg", alt: "Terminal Integration", title: "Integrated Terminal" },
-    { src: "/images/screenshot4.jpg", alt: "Theme Customization", title: "Custom Themes" },
+    { src: "/images/screenshot1.jpg", alt: "Ghost IDE", title: "Ghost IDE" },
+    { src: "/images/screenshot2.jpg", alt: "Ghost IDE", title: "Ghost IDE" },
+    { src: "/images/screenshot3.jpg", alt: "Ghost IDE", title: "Ghost IDE" },
+    { src: "/images/screenshot4.jpg", alt: "Ghost IDE", title: "Ghost IDE" },
   ]
 
   const stats = [
